@@ -1,8 +1,8 @@
 CA4: README
 ==============
 
-Find detailed links to each CA4 section here:
+This class assignment is divided into two sections:
 
-[Part1](https://bitbucket.org/manel_rga/devops-20-21-1201770/src/master/CA4/Part1/README.md)
+[Part1 - Docker](https://github.com/manel-rga/learning-containerization/blob/main/Part1/README.md)
 
-[Part2](https://bitbucket.org/manel_rga/devops-20-21-1201770/src/master/CA4/Kubernetes/README.md)
+[Part2 - Kubernetes](https://github.com/manel-rga/learning-containerization/blob/main/Part2/README.md)
